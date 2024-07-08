@@ -1,0 +1,52 @@
+.header {
+  position: absolute;
+  bottom: 50px;
+  left: 50px;
+  margin-left: 10;
+}
+
+.background-image {
+  height: 100vh;
+  background-image: url("https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3Y5MDQtbnVubnktMDI0XzIuanBn.jpg");
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: arial;
+  color: blue;
+  margin: 20;
+}
+
+body {
+  margin-top: 2%;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.images {
+  height: 100vh;
+  background-size: cover;
+  margin: 0%;
+}
+
+body {
+  position: relative;
+}
+
+footer {
+  display: flex;
+  justify-content: baseline;
+  align-items: center;
+  width: 100vw;
+  background-color: hsl(0, 0%, 100%);
+}
+
+.container {
+  padding: 1px 1px;
+  border-radius: 0px;
+  margin: 5px;
+}
